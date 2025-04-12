@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/formix/static/css/main.6d2e1f4d.css",
+    "main.css": "/formix/static/css/main.f405f8bb.css",
     "main.js": "/formix/static/js/main.9e95ab9d.js",
     "static/js/453.e74a1d85.chunk.js": "/formix/static/js/453.e74a1d85.chunk.js",
     "static/media/background.png": "/formix/static/media/background.dbb33a9986f859cc8dea.png",
     "static/media/logo.svg": "/formix/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/formix/index.html",
-    "main.6d2e1f4d.css.map": "/formix/static/css/main.6d2e1f4d.css.map",
+    "main.f405f8bb.css.map": "/formix/static/css/main.f405f8bb.css.map",
     "main.9e95ab9d.js.map": "/formix/static/js/main.9e95ab9d.js.map",
     "453.e74a1d85.chunk.js.map": "/formix/static/js/453.e74a1d85.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d2e1f4d.css",
+    "static/css/main.f405f8bb.css",
     "static/js/main.9e95ab9d.js"
   ]
 }
