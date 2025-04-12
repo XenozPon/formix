@@ -1,7 +1,7 @@
 {
   "name": "formix",
   "version": "0.1.0",
-  "homepage": "https://XenozPon.github.io/react-gh-pages",
+  "homepage": "https://XenozPon.github.io/formix",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
